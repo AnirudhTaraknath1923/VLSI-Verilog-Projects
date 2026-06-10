@@ -1,0 +1,10 @@
+# Ignore simulator wave and log dumps
+*.log
+*.vcd
+*.wdb
+*.vstf
+*.db
+work/
+xsim.dir/
+msim/
+.Xil/
